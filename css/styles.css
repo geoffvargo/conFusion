@@ -38,3 +38,7 @@ body {
 .navbar-dark {
     background-color: #512da8;
 }
+
+.breadcrumb {
+    background-color: #d1c3ea;
+}
